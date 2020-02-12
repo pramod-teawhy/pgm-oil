@@ -1,3 +1,6 @@
+## IMPORTNAT - FORK
+This is a fork of an existing set of work. Hope is to learn from it and adapt to decisions nets in Real Estate.
+
 # pgm-oil
 
 We propose using Probabilistic Graphical Models such as Belief Networks and Hidden Markov Models to construct a global macro trading strategy of the Crude Oil Markets.
